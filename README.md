@@ -40,9 +40,7 @@ This application uses the following technologies:
 ## Screenshots
 Here are some screenshots of the chat application:
 
-1. Login Page 
-
-2. Chat Page
+1. Chat Page
 - Chatroom ![Chat-1](https://github.com/user-attachments/assets/c2c5e09f-591b-4200-b001-e15f7fe2110a)
 
 
